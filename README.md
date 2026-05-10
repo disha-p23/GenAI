@@ -1,5 +1,5 @@
-```md
-# Emotion-Aware AI Narration System
+````md
+# Emotion-Aware AI Narration System 🎭
 
 An AI-powered narration and emotional analysis system that reads documents, detects emotions in text, and generates emotionally-aware narration outputs with interactive visual reports.
 
@@ -26,6 +26,33 @@ The project demonstrates how **Generative AI** and **Machine Learning** can be i
 - Visual emotion distribution charts
 - Emotion-wise report generation
 - Clean and responsive UI
+
+---
+
+# Tech Stack
+
+## Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## Backend
+- Python
+- Flask
+
+## AI / Machine Learning
+- Hugging Face Transformers
+- PyTorch
+- NLP Pipelines
+
+## Data Processing
+- Pandas
+- NumPy
+
+## Visualization
+- Matplotlib
+- Seaborn
 
 ---
 
@@ -89,17 +116,19 @@ The system demonstrates how modern NLP models can improve human-computer interac
 
 ---
 
+
+
+
 # Screenshots
 
 ## Home Page
 
-![Home Page](screenshots/homepage.png)
+<img width="1912" height="1022" alt="Screenshot 2026-05-10 150309" src="https://github.com/user-attachments/assets/94b8a33e-315c-406d-a86b-9165d60fbbd0" />
 
----
 
 ## Emotional Analysis Report
 
-![Report](screenshots/report.png)
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/6e74956e-3a10-4f24-921b-2f0977595d32" />
 
 ---
 
@@ -107,15 +136,14 @@ The system demonstrates how modern NLP models can improve human-computer interac
 
 ## Disha Parekh
 
-B.Tech Student | AI & ML Enthusiast
-
 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- Data Analytics
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* NLP
+* Generative AI
+* Data Analytics
 
 ---
 
@@ -127,8 +155,11 @@ This project is licensed under the MIT License.
 
 # Acknowledgements
 
-- Hugging Face Transformers
-- PyTorch
-- Open-source NLP community
-```
+* Hugging Face Transformers
+* PyTorch
+* Flask
+* Open-source NLP community
+
+---
+
 
