@@ -1,0 +1,141 @@
+[
+    {
+        "text": "I have experience building end-to-end data-driven applications using Python, including deployment with Streamlit and FastAPI, which has strengthened my understanding of application design and user workflows.",
+        "content_type": "educational",
+        "emotion": "neutral",
+        "secondary_emotion": "joy",
+        "confidence": 0.748,
+        "secondary_confidence": 0.18,
+        "intensity": "medium",
+        "narrative_style": "calm",
+        "voice": {
+            "pitch": 1.00725,
+            "speed": 0.99725,
+            "energy": 0.0635,
+            "pause": 0.35157499999999997,
+            "style": "professional_warm",
+            "expressiveness": 0.25
+        },
+        "music": "minimal",
+        "prosody": {
+            "intonation": "falling",
+            "pauses": [
+                {
+                    "index": 75,
+                    "symbol": ","
+                },
+                {
+                    "index": 124,
+                    "symbol": ","
+                },
+                {
+                    "index": 206,
+                    "symbol": "."
+                }
+            ],
+            "stress_regions": [
+                "I",
+                "experience",
+                "building",
+                "end-to-end",
+                "data-driven",
+                "applications",
+                "including",
+                "deployment",
+                "Streamlit",
+                "strengthened",
+                "understanding",
+                "application",
+                "workflows."
+            ],
+            "cadence": "flowing"
+        },
+        "ssml": "<speak version=\"1.0\" xml:lang=\"en-US\">\n\n    <voice name=\"en-IN-NeerjaNeural\">\n\n        <prosody\n            pitch=\"0%\"\n            rate=\"0%\">\n\n            I have <emphasis level='moderate'>experience</emphasis> <emphasis level='moderate'>building</emphasis> <emphasis level='moderate'>end-to-end</emphasis> <emphasis level='moderate'>data-driven</emphasis> <emphasis level='moderate'>applications</emphasis> using Python, <break time='150ms'/> <emphasis level='moderate'>including</emphasis> <emphasis level='moderate'>deployment</emphasis> with Streamlit and FastAPI, <break time='150ms'/> which has <emphasis level='moderate'>strengthened</emphasis> my <emphasis level='moderate'>understanding</emphasis> of <emphasis level='moderate'>application</emphasis> design and user workflows. <break time='350ms'/>\n\n        </prosody>\n\n    </voice>\n\n</speak>",
+        "audio_path": "audio_output/sentence_0.mp3"
+    },
+    {
+        "text": "I am currently exploring Microsoft Power Platform tools like Power BI and PowerApps and am eager to apply these skills to build practical business solutions and automate processes.",
+        "content_type": "educational",
+        "emotion": "joy",
+        "secondary_emotion": "surprise",
+        "confidence": 0.98,
+        "secondary_confidence": 0.01,
+        "intensity": "high",
+        "narrative_style": "uplifting",
+        "voice": {
+            "pitch": 1.02275,
+            "speed": 1.0082499999999999,
+            "energy": 0.0945,
+            "pause": 0.309925,
+            "style": "professional_warm",
+            "expressiveness": 0.25
+        },
+        "music": "hopeful",
+        "prosody": {
+            "intonation": "falling",
+            "pauses": [
+                {
+                    "index": 179,
+                    "symbol": "."
+                }
+            ],
+            "stress_regions": [
+                "I",
+                "currently",
+                "exploring",
+                "Microsoft",
+                "Platform",
+                "BI",
+                "PowerApps",
+                "practical",
+                "business",
+                "solutions",
+                "automate",
+                "processes."
+            ],
+            "cadence": "flowing"
+        },
+        "ssml": "<speak version=\"1.0\" xml:lang=\"en-US\">\n\n    <voice name=\"en-IN-NeerjaNeural\">\n\n        <prosody\n            pitch=\"1%\"\n            rate=\"0%\">\n\n            I am <emphasis level='moderate'>currently</emphasis> <emphasis level='moderate'>exploring</emphasis> Microsoft Power Platform tools like Power BI and PowerApps and am eager to apply these skills to build <emphasis level='moderate'>practical</emphasis> <emphasis level='moderate'>business</emphasis> <emphasis level='moderate'>solutions</emphasis> and <emphasis level='moderate'>automate</emphasis> processes. <break time='350ms'/>\n\n        </prosody>\n\n    </voice>\n\n</speak>",
+        "audio_path": "audio_output/sentence_1.mp3"
+    },
+    {
+        "text": "I am excited about the opportunity to contribute and gain hands-on experience working on real-world applications.",
+        "content_type": "educational",
+        "emotion": "joy",
+        "secondary_emotion": "neutral",
+        "confidence": 0.977,
+        "secondary_confidence": 0.008,
+        "intensity": "high",
+        "narrative_style": "uplifting",
+        "voice": {
+            "pitch": 1.0335,
+            "speed": 1.016,
+            "energy": 0.116,
+            "pause": 0.280525,
+            "style": "professional_warm",
+            "expressiveness": 0.25
+        },
+        "music": "hopeful",
+        "prosody": {
+            "intonation": "falling",
+            "pauses": [
+                {
+                    "index": 112,
+                    "symbol": "."
+                }
+            ],
+            "stress_regions": [
+                "I",
+                "opportunity",
+                "contribute",
+                "hands-on",
+                "experience",
+                "real-world",
+                "applications."
+            ],
+            "cadence": "flowing"
+        },
+        "ssml": "<speak version=\"1.0\" xml:lang=\"en-US\">\n\n    <voice name=\"en-IN-NeerjaNeural\">\n\n        <prosody\n            pitch=\"1%\"\n            rate=\"0%\">\n\n            I am excited about the <emphasis level='moderate'>opportunity</emphasis> to <emphasis level='moderate'>contribute</emphasis> and gain <emphasis level='moderate'>hands-on</emphasis> <emphasis level='moderate'>experience</emphasis> working on <emphasis level='moderate'>real-world</emphasis> applications. <break time='350ms'/>\n\n        </prosody>\n\n    </voice>\n\n</speak>",
+        "audio_path": "audio_output/sentence_2.mp3"
+    }
+]
