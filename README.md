@@ -1,85 +1,75 @@
-````md
-# Emotion-Aware AI Narration System 🎭
+# Emotion-Aware AI Narration System
 
-An AI-powered narration and emotional analysis system that reads documents, detects emotions in text, and generates emotionally-aware narration outputs with interactive visual reports.
-
----
-
-# Overview
-
-This project combines **Natural Language Processing (NLP)**, **Emotion Detection**, and **AI-based narration techniques** to analyze textual content and identify emotions sentence by sentence.
-
-The system processes documents such as PDFs or text files, detects emotional tones like joy, sadness, anger, fear, and more, then presents the results through an interactive web interface.
-
-The project demonstrates how **Generative AI** and **Machine Learning** can be integrated into storytelling, narration systems, accessibility tools, and intelligent reading assistants.
+**An AI-powered narration and emotional analysis system that reads documents, detects emotions in text, and generates emotionally-aware narration outputs with interactive visual reports.**
 
 ---
 
-# Features
+## Summary
 
-- Upload and analyze PDF/text documents
-- Emotion detection using transformer-based NLP models
-- Sentence-level emotional analysis
-- Emotion smoothing for better contextual consistency
-- Narrative emotion mapping
-- Interactive dashboard with navigation
-- Visual emotion distribution charts
-- Emotion-wise report generation
-- Clean and responsive UI
+Instead of performing only basic sentiment analysis, the system provides a deeper understanding of narrative emotion flow through:
+
+1. **Emotion Detection:** Sentence-level classification of emotions such as joy, anger, sadness, fear, love, and surprise.
+2. **Emotion Smoothing:** Context-aware refinement to maintain consistent emotional transitions.
+3. **Narrative Mapping:** Emotion progression analysis across the entire document.
+4. **Visual Reporting:** Interactive dashboard with emotion distributions and analytical summaries.
+---
+
+## System Screenshots
+
+### 1. Home Dashboard
+> *The main interface*
+
+<img width="1912" height="1022" alt="Screenshot 2026-05-10 150309" src="https://github.com/user-attachments/assets/273c65fe-2282-4ee5-8ee1-76917300df6f" />
+
+
+### 2. Emotional Analysis Report
+> *Detailed sentence-level emotion mapping with visual summaries and narrative flow analysis.*
+
+<img width="1919" height="963" alt="Screenshot 2026-05-10 153456" src="https://github.com/user-attachments/assets/ce8a170a-c071-4ffe-b97e-d04c1b278ae1" />
+
 
 ---
 
-# Tech Stack
+## Core Highlights
 
-## Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-## Backend
-- Python
-- Flask
-
-## AI / Machine Learning
-- Hugging Face Transformers
-- PyTorch
-- NLP Pipelines
-
-## Data Processing
-- Pandas
-- NumPy
-
-## Visualization
-- Matplotlib
-- Seaborn
+* **Transformer-Based NLP:** Emotion classification using Hugging Face transformer models.
+* **Contextual Smoothing:** Reduces abrupt emotional inconsistencies across sentences.
+* **Narrative Intelligence:** Tracks emotional progression throughout the document.
+* **Interactive UI:** Flask-powered dashboard for visualization and reporting.
+* **Generative AI Concepts:** Emotion-aware narrative interpretation and intelligent text understanding.
 
 ---
 
-# How It Works
+## Tech Stack
 
-## 1. Document Reading
+**Python** | **Hugging Face Transformers** | **PyTorch** | **Pandas** | **NumPy** | **Matplotlib** | **Seaborn**
+
+---
+
+## How It Works
+
+### 1. Document Processing
 The system reads uploaded PDF or text files and extracts textual content.
 
-## 2. Emotion Detection
-Each sentence is passed through a transformer-based emotion classification model.
+### 2. Emotion Classification
+Each sentence is passed through a transformer-based emotion detection model.
 
-## 3. Emotion Smoothing
-The detected emotions are refined contextually to avoid abrupt emotional transitions.
+### 3. Contextual Emotion Smoothing
+Detected emotions are refined contextually for smoother narrative consistency.
 
-## 4. Narrative Emotion Mapping
-The processed emotions are mapped into a coherent emotional flow.
+### 4. Narrative Emotion Mapping
+The emotional progression of the document is analyzed and structured.
 
-## 5. Visualization & Reporting
-The final results are displayed through:
-- Emotion summaries
-- Interactive reports
-- Charts and distributions
-- Sentence-level emotional breakdown
+### 5. Visual Report Generation
+The application generates:
+- Emotion distribution charts
+- Sentence-wise emotional analysis
+- Narrative emotion summaries
+- Interactive analytical reports
 
 ---
 
-# Example Emotions Detected
+## Example Emotions Detected
 
 - Joy
 - Sadness
@@ -91,75 +81,16 @@ The final results are displayed through:
 
 ---
 
-# Applications
+## Applications
 
-- AI storytelling systems
-- Emotion-aware audiobooks
-- Intelligent narration assistants
-- Educational reading tools
+- Emotion-aware storytelling systems
+- AI narration assistants
+- Interactive reading platforms
+- Educational NLP tools
 - Mental health text analysis
 - Accessibility technologies
-- Interactive media systems
-
----
-
-# Generative AI Usage
-
-This project integrates Generative AI concepts through:
-
-- Transformer-based language understanding
-- Context-aware emotional interpretation
-- AI-assisted narrative flow analysis
-- Emotion-aware content processing
-
-The system demonstrates how modern NLP models can improve human-computer interaction by making narration systems emotionally intelligent.
-
----
+- Intelligent content analysis systems
 
 
-
-
-# Screenshots
-
-## Home Page
-
-<img width="1912" height="1022" alt="Screenshot 2026-05-10 150309" src="https://github.com/user-attachments/assets/94b8a33e-315c-406d-a86b-9165d60fbbd0" />
-
-
-## Emotional Analysis Report
-
-<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/6e74956e-3a10-4f24-921b-2f0977595d32" />
-
----
-
-# Author
-
-## Disha Parekh
-
-Interested in:
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* NLP
-* Generative AI
-* Data Analytics
-
----
-
-# License
-
-This project is licensed under the MIT License.
-
----
-
-# Acknowledgements
-
-* Hugging Face Transformers
-* PyTorch
-* Flask
-* Open-source NLP community
-
----
 
 
